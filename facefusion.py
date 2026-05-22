@@ -9,3 +9,4 @@ from facefusion import conda, core
 if __name__ == '__main__':
 	conda.setup()
 	core.cli()
+】
